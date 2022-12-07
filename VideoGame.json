@@ -1,7 +1,7 @@
 {
   "VideoGames":
   [
-    {"GameName":"World of Warcraft","VideoGameDescription":"Set in the fictional world of Azeroth, WoW allows players to create avatar-style characters and explore a sprawling universe while interacting with nonreal players-called nonplayer characters (NPCs)-and other real-world players (PCs).","GameID:1,"GameDev":"Activision Blizzard","MonthlyUser":"1153244 Average Monthly Users","ReleaseDate":"November 23 2004","GameGenre":"Mass Multiplayer Online","GameImage":"World of Warcraft logo.jpg","VideoGameWebSite":"https://worldofwarcraft.com/en-us/"}
+    {"GameName":"World of Warcraft","VideoGameDescription":"Set in the fictional world of Azeroth, WoW allows players to create avatar-style characters and explore a sprawling universe while interacting with nonreal players-called nonplayer characters (NPCs)-and other real-world players (PCs).","GameID":"1","GameDev":"Activision Blizzard","MonthlyUser":"1153244 Average Monthly Users","ReleaseDate":"November 23 2004","GameGenre":"Mass Multiplayer Online","GameImage":"https://github.com/JamesWarrenDev/IT-315/blob/main/World%20of%20Warcraft%20Logo.jpg","VideoGameWebSite":"https://worldofwarcraft.com/en-us/"}
   ],
   "Status":"OK"
 }
